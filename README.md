@@ -1,6 +1,6 @@
 # JCRE Special Issue Replication Starter Repository
 
-This repository is the starting point for replicators working on the Journal of Comments and Replications in Economics (JCRE) special issue on Payments for Ecosystem Services.
+This repository is the starting point for replicators working on the Journal of Comments and Replications in Economics (JCRE) special issue on Payments for Ecosystem Services. Please follow the six steps below to begin your replication. A good starting point for your replication might be to `fork`/`clone` this repository and develop your workflow from this foundation.
 
 ## How Replicators Should Proceed
 
